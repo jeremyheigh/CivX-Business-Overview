@@ -9,7 +9,7 @@ Repository commit control is limited to the project lead for CivX Economy and a 
 Content for this document is primarily sourced from:
 
 * CivX Core Team - Kent Langley \(Lead\)
-* CivX Economic Council - Jeremey Heigh \(Lead\)
+* CivX Economic Council - Jeremy Heigh \(Lead\)
 * CivX Legal Council - Kent Langley \(Lead\)
 
 
